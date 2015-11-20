@@ -14,7 +14,10 @@ Now you can run your local server:
 ```
 npm start
 ```
-Server is located at http://localhost:3000
+Server is located at http://localhost:3300
+To change, edit port in webpack-dev-server.config.js
+
+Entry point: /src/app/app.jsx
 
 #Description of [Webpack](http://webpack.github.io/docs/)
 Webpack is a module bundler that we are using to run our documentation site. This is a quick overview of how the configuration file works.
